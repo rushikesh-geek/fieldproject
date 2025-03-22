@@ -3,7 +3,7 @@ import "./../styles/pages.css";
 
 const Profile = () => {
   const [profile, setProfile] = useState({
-    name: "Dr. John Doe",
+    name: "Dr. Nana",
     gender: "Male",
     registrationNumber: "ABC123456",
     state: "Maharashtra",
