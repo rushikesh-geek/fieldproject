@@ -52,13 +52,11 @@ const Register = () => {
         <option value="Maharashtra">Maharashtra</option>
         <option value="Gujarat">Gujarat</option>
         <option value="Goa">Goa</option>
-        <option value="Kerala">Kerala</option>
-        <option value="Gujarat">Gujarat</option>
         <option value="Punjab">Punjab</option>
-        <option value="Haryana">Haryana</option>
-        <option value="Tamilnadu">Tamilnadu</option>
+        <option value="Karnatak">Karnatak</option>
+        <option value="Kerala">Kerala</option>
         <option value="Tripura">Tripura</option>
-        <option value="Asaam">Asaam</option>
+
         
       </select>
       <input
